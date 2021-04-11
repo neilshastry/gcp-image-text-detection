@@ -148,4 +148,4 @@ Neil Shastry
 
 ## Acknowledgments
 
-[Bhavesh Bhatt](https://github.com/bhattbhavesh91?tab=overview&from=2021-03-01&to=2021-03-31) for the great [youtube video](https://www.youtube.com/watch?v=tOVjjo8VJTs) inspiration.
+[@bhaveshbhatt91](https://github.com/bhattbhavesh91?tab=overview&from=2021-03-01&to=2021-03-31) for the great [youtube video](https://www.youtube.com/watch?v=tOVjjo8VJTs) inspiration.
