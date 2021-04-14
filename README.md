@@ -1,6 +1,6 @@
 # Google Cloud Vision API - Use Case for Detecting Text within an Image
 
-## Objective
+## Background
 To illustrate the steps and code required to use the Google Cloud Vision API for text detection within an image. This code can be extended for practical applications for all OCR related machine learning use cases where the objective is to extract text information from any file format.
 
 **Sample Use Case:**
