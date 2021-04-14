@@ -3,12 +3,16 @@
 ## Background
 To illustrate the steps and code required to use the Google Cloud Vision API for text detection within an image. This code can be extended for practical applications for all OCR related machine learning use cases where the objective is to extract text information from any file format.
 
-**Sample Use Case:**
+## Tools
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
+## Sample Use Case:
 Pulp Fiction is one of my favourite movies and Uma Thurman one of my favourite actresses
 
 ![Pulp Fiction Movie Poster](https://user-images.githubusercontent.com/36125669/114271781-c4cb2280-9a45-11eb-8e4f-50f5a7cf5bd6.jpg)
 
-**Objectives**
+## Objectives
 1. Identify all text information in the poster
 2. Highlight the name 'UMA' with a bounded box
 
